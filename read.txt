@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-test
-=======
->>>>>>> parent of d68f01a... them abc vao read.txt
+test abc
+
